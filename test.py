@@ -1,3 +1,3 @@
-print "Hello World!"
-print "new aslwell"
+<<<<<<< HEAD
+>>>>>>> master
 print "HAHAHAHAHAHA"
