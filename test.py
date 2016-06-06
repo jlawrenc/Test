@@ -1,2 +1,2 @@
-print "Hello World!"
-print "new aslwell"
+print "Hello me"
+print "HAHAHAHAHAHA"
